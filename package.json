@@ -1,0 +1,14 @@
+{
+"name": "com.saga.loginframework",
+"version":"1.0.0",
+"displayName":"Login Tool",
+"description":"",
+"unity":"2021.3",
+"dependencies":{},
+"keywords":["tools","login"],
+"author":{
+"name":"sagar",
+"email":"sagarmahesh13@gmail.com",
+"url":{}
+}
+}
